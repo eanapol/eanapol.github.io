@@ -1,0 +1,10 @@
+h1 {
+				color:purple;
+				font-size:50pt;
+				font-family: "Montserrat", "Arial", sans-serif;
+				text-align: center;
+				text-decoration: underline;
+	}
+p {color:black;} 
+#orange {color:orange;}
+.red {color:red;}
